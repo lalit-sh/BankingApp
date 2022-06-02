@@ -1,0 +1,12 @@
+.nav-item i {
+  color: grey;
+  cursor: pointer;
+}
+
+@media (min-width: 992px) {
+  .navbar li {
+    align-items: flex-end;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+}
